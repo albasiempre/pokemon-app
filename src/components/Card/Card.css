@@ -16,3 +16,8 @@
 .cardInfo {
   tex-align: center;
 }
+
+.cardHead {
+  display:flex;
+  justify-content: center;
+}

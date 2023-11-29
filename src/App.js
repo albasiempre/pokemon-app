@@ -61,7 +61,7 @@ function App() {
     <div className="App">
       {
         loading ? (
-          <div>ロード中、、、、</div>
+          <div className='loading'>LOADING NOW.....</div>
         ): (
           <>
           <div className="pokemonCardContainer">
@@ -70,8 +70,8 @@ function App() {
           })}
           </div>
           <div className="btn">
-            <button onClick={handlePrevPage}>前へ</button>
-            <button onClick={handleNextPage}>次へ</button>
+            <button onClick={handlePrevPage}>BACK</button>
+            <button onClick={handleNextPage}>NEXT</button>
           </div>
           </>
         )
