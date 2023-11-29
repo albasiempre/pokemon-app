@@ -1,3 +1,31 @@
+# ここにタイトルを入れる
+ポケモン図鑑
+
+## DEMO
+
+  - デプロイしている場合はURLを記入（任意）
+
+## 紹介と使い方
+
+  - どんなプロダクトなのか，どのように操作するのか
+
+  - ポケモンAPIを使用した図鑑
+  - 単純に閲覧するだけの内容（画像、タイプなど）
+
+## 工夫した点
+
+  - UIは見やすいようにした
+  - ローディングに時間をかけないように、reactで
+
+## 苦戦した点
+
+  - ページ設計の時のロジック理解
+
+## 参考にした web サイトなど
+ https://zenn.dev/e_chan1007/books/822529ef2f981d/viewer/aa4f61
+ 
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
